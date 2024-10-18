@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_application_3/home_page.dart';
 import 'package:flutter_application_3/login_pages.dart';
 import 'package:flutter_application_3/register_pages.dart';
 
@@ -18,7 +19,8 @@ class MyApp extends StatelessWidget {
       initialRoute: '/', // Halaman awal
       routes: {
         '/': (context) => LoginPage(),    // Rute untuk halaman login
-        '/register': (context) => RegisterPage(),  // Rute untuk halaman register
+        '/Register': (context) => RegisterPage(),  // Rute untuk halaman register
+        '/Home': (context) => HomePage(fullname: 'Samuel'),
       },
     );
   }
