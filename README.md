@@ -1,16 +1,15 @@
-# flutter_application_3
+NAMA    : Samuel Rivaldo Saragih
+KELAS   : 2B TRPL
+NIM     : 362358302156
 
-A new Flutter project.
+Login
+![Gambar](image.png)
 
-## Getting Started
+Register
+![Gambar](image-1.png)
 
-This project is a starting point for a Flutter application.
+Login jika memiliki akun
+![Gambar](image-2.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Jika Email atau pasword salah
+![Gambar](image-3.png)
